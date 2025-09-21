@@ -10,7 +10,7 @@ Suitable for any games on the Source engine.
 1. [Textures list](https://github.com/justyXOR/xor_model_tools/blob/stable/Examples%20and%20lists/textures.txt)<br>
 2. Materials list (TODO)<br>
 3. Models list (TODO)<br>
-4. Examples of use (TODO)<br>
+4. [Examples of use](https://github.com/justyXOR/xor_model_tools/tree/stable/Examples%20and%20lists/examples)<br>
 
 We strongly advise you to read the [license](https://github.com/justyXOR/xor_model_tools?tab=License-1-ov-file) before use; it's short and for your own benefit.<br>
 
