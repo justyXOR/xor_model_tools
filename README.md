@@ -13,7 +13,4 @@ Suitable for any games on the Source engine.
 *TODO* - Models<br>
 
 We strongly advise you to read the [license](https://github.com/justyXOR/xor_model_tools?tab=License-1-ov-file) before use; it's short and for your own benefit.
-
----
-
 **Created in 2025 by XOR Team, led by its owner (XOR). All rights reserved under a proprietary license.**
