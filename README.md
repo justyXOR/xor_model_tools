@@ -7,7 +7,7 @@ Suitable for any games on the Source engine.
 "$bumpmap" "xmdt/default_normalmap"        // Standard normal map
 ```
 
-1. Textures list (TODO)<br>
+1. [Textures list](https://github.com/justyXOR/xor_model_tools/blob/stable/Examples%20and%20lists/textures.txt)<br>
 2. Materials list (TODO)<br>
 3. Models list (TODO)<br>
 4. Examples of use (TODO)<br>
