@@ -1,0 +1,4 @@
+Actual list of materials:
+
+"xmdt/default_normalmap" - Default normal map (1x1 texture with standart color)
+"xmdt/default_phong" - Default phong map (1x1 texture with standart color)
