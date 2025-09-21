@@ -18,4 +18,5 @@ All other rights are reserved. Any unauthorized use of this addon or its content
 
 For questions regarding copyrights or to request permissions, please contact the owner:
 Discord: justyxor
+or
 Telegram: @justyXOR
