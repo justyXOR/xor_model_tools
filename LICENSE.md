@@ -6,7 +6,7 @@ This addon, "XOR's Model Tools," including all its content (models, textures, so
 
 **Allowed Uses:**
 
-*  Using this addon in Garry's Mod via official subscription on Steam Workshop.
+*  Using this addon in Garry's Mod via official subscription on [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3572385408).
 
 **Strictly Forbidden Without Written Permission:**
 
