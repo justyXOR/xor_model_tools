@@ -17,5 +17,6 @@ This addon, "XOR's Model Tools," including all its content (models, textures, so
 All other rights are reserved. Any unauthorized use of this addon or its content constitutes a copyright infringement and may result in legal action.
 
 For questions regarding copyrights or to request permissions, please contact the owner:
+
 Discord: justyxor
 Telegram: @justyXOR
